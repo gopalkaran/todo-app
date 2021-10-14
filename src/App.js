@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
-import {Typography, AppBar, Card, CardActions, CardContent, CardMedia, CssBaseline, Grid, Toolbar, Container} from '@mui/material'; 
+import {Typography, AppBar, CssBaseline, Toolbar, Container} from '@mui/material'; 
 import { FormatListBulletedRounded} from '@mui/icons-material';
 import Todo from './components/Todo';
 import AddTodo from './components/AddTodo';
